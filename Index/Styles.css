@@ -1,0 +1,22 @@
+.body
+{
+    background-color: white;
+}
+
+.Logo
+{
+    background-color: #f8efe4;
+    text-align: center;
+    color: #b2704e;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.LogoImage
+{
+    width: 50%;
+    height: auto;
+}

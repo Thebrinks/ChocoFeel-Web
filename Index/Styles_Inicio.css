@@ -6,10 +6,10 @@
 .Logo
 {
     background-color: #f8efe4;
-    color: #b2704e;
     text-align: center;
+    color: #b2704e;
     width: 100%;
-    height: 250px;
+    height: 200px;
     margin-top: 10px;
     margin-bottom: 30px;
     padding-top: 10px;
@@ -20,18 +20,6 @@
 {
     width: 50%;
     height: auto;
+    margin-bottom: 10px;
 }
 
-.Inicio
-{
-    margin-left: 40px;
-    text-align: left;
-}
-
-.InicioLink
-{
-    color: #b2704e;
-    text-decoration: none;
-    font-size: 30px;
-    font-weight: bold;
-}
